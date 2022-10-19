@@ -1,0 +1,68 @@
+<mjml>
+   <mj-head>
+      <mj-title>SendGrid Transactional Email</mj-title>
+      <mj-attributes>
+         
+      </mj-attributes>
+   </mj-head>
+
+   <mj-body background-color="#ffffff">
+   <!-- logo -->
+      <mj-wrapper background-color="#ffffff">
+      <mj-section background-color="#ffffff" >
+         <mj-column padding="0px" padding-top="10px" padding-bottom="10px">
+            <mj-image src="https://i.ibb.co/W5dSvcs/send-grid-logo.png" alt="Logo sendgrid" align="left" width="200px"  />
+         </mj-column>
+      </mj-section>
+      </mj-wrapper>
+      <!-- end logo -->
+
+      <!-- body wrapper -->
+      <mj-wrapper background-color="#ebf8f3">
+         <mj-section >
+            <mj-column padding="0px">
+              <mj-text font-size="20px" font-family="Helvetica, Arial, sanserif" color="#111111" line-height="26px">
+               Hello jgriffin26,
+              </mj-text> 
+              <mj-text font-size="20px" font-family="Helvetica, Arial, sanserif" color="#111111" line-height="26px">
+               <strong>A request has been received to change the password to your SendGrid account.</strong>
+              </mj-text>
+              <mj-button background-color="blue" color="#ffffff" inner-padding="15px 25px" font-size="16px" font-family="Helvetica, Arial, sanserif" color="#111111" href="www.google.com" >
+               Reset Password
+              </mj-button>
+              <mj-text font-size="16px" font-family="Helvetica, Arial, sanserif" color="#111111" line-height="26px">
+               If you did not inititate this request, please contact us immediately at <a href="#" style="color:#87c1ff;">support@sendgrid.com</a>
+              </mj-text>
+              <mj-text font-size="16px" font-family="Helvetica, Arial, sanserif" color="#111111" line-height="26px">
+               Thank you, <br>
+               The SendGrid Team
+              </mj-text>
+              
+            </mj-column>
+         </mj-section>
+      </mj-wrapper>
+      <!--end body wrapper -->
+
+      <!-- footer -->
+      <mj-section>
+         <mj-column padding="0px" >
+            <mj-image src="https://i.ibb.co/W5dSvcs/send-grid-logo.png" alt="logo sendgrid" width="130px" align="center" />
+            <mj-text font-family="Helvetica, Arial, sanserif" color="#111111" font-size="16px"padding-bottom="20px" align="center">
+               Send with Confidence
+            </mj-text>
+            <mj-text font-family="Helvetica, Arial, sanserif" color="#111111" font-size="14px"padding-bottom="20px" align="center">
+               © SendGrid Inc. California Street, Suite 500, Denver, CO 80202 USA
+            </mj-text>
+            <mj-text font-family="Helvetica, Arial, sanserif" color="#111111" font-size="14px"padding-bottom="20px" align="center">              
+                <a href="#" style="color:#87c1ff;">Blog </a> &nbsp;  &nbsp;      
+              <a href="#" style="color:#87c1ff;">GitHub</a>    &nbsp;   &nbsp;                                                              
+              <a href="#" style="color:#87c1ff;">Twitter </a> &nbsp; &nbsp;
+              <a href="#" style="color:#87c1ff;">Facebook </a>  &nbsp;  &nbsp;           
+              <a href="#" style="color:#87c1ff;">LinkedIn </a> 
+            </mj-text>
+         </mj-column>
+      </mj-section>
+      <!--end footer -->
+
+   </mj-body>
+</mjml>
